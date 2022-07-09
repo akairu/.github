@@ -1,4 +1,4 @@
-![ayara logo](https://raw.githubusercontent.com/akairu/.github/master/images/akairu.png)
+![ayara logo](https://raw.githubusercontent.com/akairu/.github/master/images/akairu%202x.png)
 
 ### hi. we make cool stuff 🚀
 
